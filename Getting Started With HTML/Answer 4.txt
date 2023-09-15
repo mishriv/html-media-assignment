@@ -1,0 +1,20 @@
+ANSWER NO. 4
+TAG- HTML uses a system of "tags" to define the structure and layout of web pages. Tags are the building blocks of HTML documents and consist of angle brackets enclosing specific keywords. These tags provide instruction to the web browsers on how to display the content.
+expample- <html>, <head>, <p>, <br/>,etc...
+
+ELEMENT- HTML elements are the building block of an HTML document.HTML element consist of start tag, an end tag, and content in between the tags.The start tags define the beginning of an HTML element, and the end tag defines the end of an HTML element.
+
+
+example-  
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8" />
+<title></title>
+</head>
+
+<body>
+    <h1> HTML defines the content and structure of your website</h1>
+</body>
+</html>
+

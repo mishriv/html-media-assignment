@@ -1,0 +1,4 @@
+ANSWER NO. 4-
+DOCTYPE Declaration in HTML-
+
+The <DOCTYPE> declaration represents the document tpe, and helps the browsers to display web pages correctly.

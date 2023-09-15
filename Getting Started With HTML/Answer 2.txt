@@ -1,0 +1,16 @@
+ANSWER NO. 2
+Purpose of Comment: HTML comments serve various purpose, some are-
+1. Documentation- Developers often use comment to explain purpose or functionality of certain code blocks, making it easier to understand the codebase for anyone using this code.
+2. Debugging- comments can help in troubleshootingor temporarily disabling section of code for testing purpose without deleting them.
+3. Reminder- it can act as a reminder for future modification or correction/improvement in codes.
+4. Work in progress-it can mark unfinished section or we can indicate that certain code is under construction.
+
+Example-
+
+1. <!-- THIS IS AN EXAMPLE OF SINGLE LINE COMMENT-->
+
+2. <!-- THIS IS 
+AN EXAMPLE 
+OF MULTI LINE
+COMMENT -->
+
